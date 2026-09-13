@@ -1,16 +1,15 @@
 {
   "schemaVersion": 1,
   "applicationId": "com.sprachraum",
-  "versionCode": 13,
-  "versionName": "0.7.2",
-  "title": "Nützliche Wörter und ganze Sätze",
+  "versionCode": 14,
+  "versionName": "0.7.3",
+  "title": "Übersichtlichere Themen",
   "notes": [
-    "Nach Gesprächen: wichtige Wörter, ganze Sätze und passende Empfehlungen auswählen.",
-    "Ausdrücke wie Come ti chiami? als Ganzes kennenlernen und wiederholen.",
-    "Neue Themen erhalten einen sinnvollen Mix; Fülllaute werden ausgeschlossen."
+    "Begrüßung und Befinden sowie persönliche Vorstellungen stehen in übersichtlichen gemeinsamen Themen.",
+    "Neue Vorschläge ordnen verwandte Wörter und Sätze gröber ein. Dein Lernfortschritt bleibt erhalten."
   ],
-  "publishedAt": "2026-09-13T10:27:54Z",
-  "apkUrl": "https://github.com/nico-ht/Sprachraum-Releases/releases/download/v0.7.2/sprachraum-0.7.2.apk",
-  "apkSha256": "0d777fd5d0818922ae6130bc28b268d792f22df9dfc3c5d7f5a334c2a6fad145",
-  "apkSizeBytes": 102400771
+  "publishedAt": "2026-09-13T10:58:55Z",
+  "apkUrl": "https://github.com/nico-ht/Sprachraum-Releases/releases/download/v0.7.3/sprachraum-0.7.3.apk",
+  "apkSha256": "1100a913f621db2271f44ca646fbdb24c685dd031f27c977da5018056bd6c2f8",
+  "apkSizeBytes": 102408963
 }
