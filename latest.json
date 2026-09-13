@@ -1,17 +1,17 @@
 {
-    "schemaVersion":  1,
-    "applicationId":  "com.sprachraum",
-    "versionCode":  10,
-    "versionName":  "0.6.3",
-    "title":  "Stabile Live-Gespräche und übersichtliche API-Kosten",
-    "notes":  [
-                  "Mikrofon-Absturz auf Android behoben.",
-                  "Kostenübersicht für Sprache, Übersetzungen und KI-Lernhilfe.",
-                  "Leerer Lernstart mit gesichertem vorherigem Lernstand.",
-                  "Flüssigere Listen und vorbereiteter Updatekanal."
-              ],
-    "publishedAt":  "2026-09-12T21:49:25Z",
-    "apkUrl":  "https://github.com/nico-ht/Sprachraum-Releases/releases/download/v0.6.3/sprachraum-0.6.3.apk",
-    "apkSha256":  "5b5e7d52b693d6397bd5dba6d4f8bde7a18ee12dffa51f2b1b8f55287b1448c5",
-    "apkSizeBytes":  103019193
+  "schemaVersion": 1,
+  "applicationId": "com.sprachraum",
+  "versionCode": 11,
+  "versionName": "0.7.0",
+  "title": "Sprechen, Themen und Wörter",
+  "notes": [
+    "Ruhigere Oberfläche mit Sprechen als Startseite und optionalen Vokabelkarten.",
+    "Eigene Szenarien planen und bekannte Wörter gezielt im Gespräch üben.",
+    "Lokales Lerngedächtnis, Grammatikhinweise und vorsichtige Lernfortschritte aus Gesprächen.",
+    "Separate Ausspracheübungen mit Audiofeedback und sichtbaren KI-Kosten."
+  ],
+  "publishedAt": "2026-09-13T07:13:44Z",
+  "apkUrl": "https://github.com/nico-ht/Sprachraum-Releases/releases/download/v0.7.0/sprachraum-0.7.0.apk",
+  "apkSha256": "5a54cf86f54f69e0296c984dec5d83cf0d2ff4108722e4c8b336f37acce4327b",
+  "apkSizeBytes": 102327043
 }
