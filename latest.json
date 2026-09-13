@@ -1,14 +1,16 @@
 {
   "schemaVersion": 1,
   "applicationId": "com.sprachraum",
-  "versionCode": 16,
-  "versionName": "0.7.5",
-  "title": "Neues Sprachraum-App-Icon",
+  "versionCode": 17,
+  "versionName": "0.7.6",
+  "title": "Gespeicherte Themen wieder öffnen",
   "notes": [
-    "Sprachraum hat jetzt das neue Buch-Icon mit deutscher und italienischer Flagge."
+    "Gespeicherte Gesprächsthemen werden mit der tatsächlich installierten App-Version geprüft.",
+    "Vorhandene Pakete und Lernstände bleiben unverändert.",
+    "App-Updates bleiben auch bei einem Lesefehler erreichbar."
   ],
-  "publishedAt": "2026-09-13T11:17:38Z",
-  "apkUrl": "https://github.com/nico-ht/Sprachraum-Releases/releases/download/v0.7.5/sprachraum-0.7.5.apk",
-  "apkSha256": "7945a79bc53c09c24ad291f2f3b41d2cf116da45d745899e1272417ae8e39051",
+  "publishedAt": "2026-09-13T11:40:21Z",
+  "apkUrl": "https://github.com/nico-ht/Sprachraum-Releases/releases/download/v0.7.6/sprachraum-0.7.6.apk",
+  "apkSha256": "65a643abe4673fcbdb48ca16b579ef9d3252b37dcc3719fe234cdd29e37bdac4",
   "apkSizeBytes": 102396675
 }
