@@ -1,15 +1,16 @@
 {
   "schemaVersion": 1,
   "applicationId": "com.sprachraum",
-  "versionCode": 14,
-  "versionName": "0.7.3",
-  "title": "Übersichtlichere Themen",
+  "versionCode": 15,
+  "versionName": "0.7.4",
+  "title": "Gespräche besser mitlesen und fortsetzen",
   "notes": [
-    "Begrüßung und Befinden sowie persönliche Vorstellungen stehen in übersichtlichen gemeinsamen Themen.",
-    "Neue Vorschläge ordnen verwandte Wörter und Sätze gröber ein. Dein Lernfortschritt bleibt erhalten."
+    "Deine gesprochenen Sätze erscheinen direkt neben den Antworten.",
+    "Lange Texte bleiben vollständig lesbar; Weiterreden setzt die letzte Antwort fort.",
+    "Lernhinweise warten bis zum nächsten Sprechbeitrag."
   ],
-  "publishedAt": "2026-09-13T10:58:55Z",
-  "apkUrl": "https://github.com/nico-ht/Sprachraum-Releases/releases/download/v0.7.3/sprachraum-0.7.3.apk",
-  "apkSha256": "1100a913f621db2271f44ca646fbdb24c685dd031f27c977da5018056bd6c2f8",
-  "apkSizeBytes": 102408963
+  "publishedAt": "2026-09-13T11:03:00Z",
+  "apkUrl": "https://github.com/nico-ht/Sprachraum-Releases/releases/download/v0.7.4/sprachraum-0.7.4.apk",
+  "apkSha256": "baebad14c55f788cca3e71067f1d5d67c7646107db6a25b3bd5ddae8ddb98f97",
+  "apkSizeBytes": 102413059
 }
