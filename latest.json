@@ -1,16 +1,15 @@
 {
   "schemaVersion": 1,
   "applicationId": "com.sprachraum",
-  "versionCode": 17,
-  "versionName": "0.7.6",
-  "title": "Gespeicherte Themen wieder öffnen",
+  "versionCode": 18,
+  "versionName": "0.7.7",
+  "title": "Themen und Gesprächsrollen",
   "notes": [
-    "Gespeicherte Gesprächsthemen werden mit der tatsächlich installierten App-Version geprüft.",
-    "Vorhandene Pakete und Lernstände bleiben unverändert.",
-    "App-Updates bleiben auch bei einem Lesefehler erreichbar."
+    "Sprechen berücksichtigt die gespeicherte Situation und die Rollen der Beteiligten.",
+    "Bei unklaren Themen fragt die App vor dem Vorschlag nach."
   ],
-  "publishedAt": "2026-09-13T11:40:21Z",
-  "apkUrl": "https://github.com/nico-ht/Sprachraum-Releases/releases/download/v0.7.6/sprachraum-0.7.6.apk",
-  "apkSha256": "65a643abe4673fcbdb48ca16b579ef9d3252b37dcc3719fe234cdd29e37bdac4",
-  "apkSizeBytes": 102396675
+  "publishedAt": "2026-09-13T11:55:02Z",
+  "apkUrl": "https://github.com/nico-ht/Sprachraum-Releases/releases/download/v0.7.7/sprachraum-0.7.7.apk",
+  "apkSha256": "4f9f06c11419132a971ced18ec53913a7053486190250d8665cae3234e2f3751",
+  "apkSizeBytes": 102404867
 }
