@@ -1,17 +1,16 @@
 {
   "schemaVersion": 1,
   "applicationId": "com.sprachraum",
-  "versionCode": 11,
-  "versionName": "0.7.0",
-  "title": "Sprechen, Themen und Wörter",
+  "versionCode": 12,
+  "versionName": "0.7.1",
+  "title": "Gesprächswörter und alle fälligen Wörter",
   "notes": [
-    "Ruhigere Oberfläche mit Sprechen als Startseite und optionalen Vokabelkarten.",
-    "Eigene Szenarien planen und bekannte Wörter gezielt im Gespräch üben.",
-    "Lokales Lerngedächtnis, Grammatikhinweise und vorsichtige Lernfortschritte aus Gesprächen.",
-    "Separate Ausspracheübungen mit Audiofeedback und sichtbaren KI-Kosten."
+    "Wörter nach Gesprächen auswählen und passenden oder neuen Themen zuordnen.",
+    "Neue Themen aus einer Beschreibung mit passenden Wörtern erstellen.",
+    "Fällige Wörter üben startet alle fälligen Karten aus sämtlichen Fächern."
   ],
-  "publishedAt": "2026-09-13T07:13:44Z",
-  "apkUrl": "https://github.com/nico-ht/Sprachraum-Releases/releases/download/v0.7.0/sprachraum-0.7.0.apk",
-  "apkSha256": "5a54cf86f54f69e0296c984dec5d83cf0d2ff4108722e4c8b336f37acce4327b",
-  "apkSizeBytes": 102327043
+  "publishedAt": "2026-09-13T09:42:58Z",
+  "apkUrl": "https://github.com/nico-ht/Sprachraum-Releases/releases/download/v0.7.1/sprachraum-0.7.1.apk",
+  "apkSha256": "0c84c98306dbad187e09587a5a250eed96c4cc58015bed0939751da32fb73570",
+  "apkSizeBytes": 102376195
 }
