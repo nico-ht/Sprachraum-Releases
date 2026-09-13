@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
   "applicationId": "com.sprachraum",
-  "versionCode": 12,
-  "versionName": "0.7.1",
-  "title": "Gesprächswörter und alle fälligen Wörter",
+  "versionCode": 13,
+  "versionName": "0.7.2",
+  "title": "Nützliche Wörter und ganze Sätze",
   "notes": [
-    "Wörter nach Gesprächen auswählen und passenden oder neuen Themen zuordnen.",
-    "Neue Themen aus einer Beschreibung mit passenden Wörtern erstellen.",
-    "Fällige Wörter üben startet alle fälligen Karten aus sämtlichen Fächern."
+    "Nach Gesprächen: wichtige Wörter, ganze Sätze und passende Empfehlungen auswählen.",
+    "Ausdrücke wie Come ti chiami? als Ganzes kennenlernen und wiederholen.",
+    "Neue Themen erhalten einen sinnvollen Mix; Fülllaute werden ausgeschlossen."
   ],
-  "publishedAt": "2026-09-13T09:42:58Z",
-  "apkUrl": "https://github.com/nico-ht/Sprachraum-Releases/releases/download/v0.7.1/sprachraum-0.7.1.apk",
-  "apkSha256": "0c84c98306dbad187e09587a5a250eed96c4cc58015bed0939751da32fb73570",
-  "apkSizeBytes": 102376195
+  "publishedAt": "2026-09-13T10:27:54Z",
+  "apkUrl": "https://github.com/nico-ht/Sprachraum-Releases/releases/download/v0.7.2/sprachraum-0.7.2.apk",
+  "apkSha256": "0d777fd5d0818922ae6130bc28b268d792f22df9dfc3c5d7f5a334c2a6fad145",
+  "apkSizeBytes": 102400771
 }
