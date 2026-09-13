@@ -1,15 +1,17 @@
 {
   "schemaVersion": 1,
   "applicationId": "com.sprachraum",
-  "versionCode": 18,
-  "versionName": "0.7.7",
-  "title": "Themen und Gesprächsrollen",
+  "versionCode": 19,
+  "versionName": "0.7.8",
+  "title": "Natürlichere Gespräche und automatische Übersetzung",
   "notes": [
-    "Sprechen berücksichtigt die gespeicherte Situation und die Rollen der Beteiligten.",
-    "Bei unklaren Themen fragt die App vor dem Vorschlag nach."
+    "Gespräche greifen deine Antworten auf und führen mit passenden neuen Anschlussfragen weiter.",
+    "Italienische Sprachregeln und Grammatik richten sich genauer nach Situation und Lernstand.",
+    "Wortinfos ergänzen passende Grundformen, Artikel und feste Wendungen.",
+    "Deutsche Untertitel können auf Wunsch automatisch mitlaufen."
   ],
-  "publishedAt": "2026-09-13T11:55:02Z",
-  "apkUrl": "https://github.com/nico-ht/Sprachraum-Releases/releases/download/v0.7.7/sprachraum-0.7.7.apk",
-  "apkSha256": "4f9f06c11419132a971ced18ec53913a7053486190250d8665cae3234e2f3751",
-  "apkSizeBytes": 102404867
+  "publishedAt": "2026-09-13T19:48:03Z",
+  "apkUrl": "https://github.com/nico-ht/Sprachraum-Releases/releases/download/v0.7.8/sprachraum-0.7.8.apk",
+  "apkSha256": "0674ef659a15f5e2c46350c0fd4f28d531967bce73b4e12fddb88809bd30401d",
+  "apkSizeBytes": 102429443
 }
