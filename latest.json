@@ -1,16 +1,14 @@
 {
   "schemaVersion": 1,
   "applicationId": "com.sprachraum",
-  "versionCode": 15,
-  "versionName": "0.7.4",
-  "title": "Gespräche besser mitlesen und fortsetzen",
+  "versionCode": 16,
+  "versionName": "0.7.5",
+  "title": "Neues Sprachraum-App-Icon",
   "notes": [
-    "Deine gesprochenen Sätze erscheinen direkt neben den Antworten.",
-    "Lange Texte bleiben vollständig lesbar; Weiterreden setzt die letzte Antwort fort.",
-    "Lernhinweise warten bis zum nächsten Sprechbeitrag."
+    "Sprachraum hat jetzt das neue Buch-Icon mit deutscher und italienischer Flagge."
   ],
-  "publishedAt": "2026-09-13T11:03:00Z",
-  "apkUrl": "https://github.com/nico-ht/Sprachraum-Releases/releases/download/v0.7.4/sprachraum-0.7.4.apk",
-  "apkSha256": "baebad14c55f788cca3e71067f1d5d67c7646107db6a25b3bd5ddae8ddb98f97",
-  "apkSizeBytes": 102413059
+  "publishedAt": "2026-09-13T11:17:38Z",
+  "apkUrl": "https://github.com/nico-ht/Sprachraum-Releases/releases/download/v0.7.5/sprachraum-0.7.5.apk",
+  "apkSha256": "7945a79bc53c09c24ad291f2f3b41d2cf116da45d745899e1272417ae8e39051",
+  "apkSizeBytes": 102396675
 }
