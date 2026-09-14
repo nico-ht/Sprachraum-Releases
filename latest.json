@@ -1,15 +1,17 @@
 {
   "schemaVersion": 1,
   "applicationId": "com.sprachraum",
-  "versionCode": 22,
-  "versionName": "0.7.11",
-  "title": "Abwechslung beim Vokabelüben",
+  "versionCode": 23,
+  "versionName": "0.7.12",
+  "title": "Lebendigere Gespräche",
   "notes": [
-    "Fällige Wörter und Übungen aus der Vokabelbox werden bei jedem Start neu gemischt.",
-    "Während einer Übung bleibt die Reihenfolge stabil; vergessene Wörter kommen erneut dran."
+    "Vor dem Gespräch zeigt die KI eine kurze Szenario-Vorschau. Erst nach deiner Bestätigung startet das Mikrofon.",
+    "Szenarien beginnen mitten in der Situation mit passenden Rollen und abwechslungsreichen Begegnungen.",
+    "Mehr Raum für eigene Fragen, Reaktionen und Wünsche; kurze Worthilfe lässt dich deinen Satz beenden.",
+    "Alle gesprochenen Antworten und Hilfen bleiben auf Italienisch."
   ],
-  "publishedAt": "2026-09-14T17:41:02Z",
-  "apkUrl": "https://github.com/nico-ht/Sprachraum-Releases/releases/download/v0.7.11/sprachraum-0.7.11.apk",
-  "apkSha256": "3946d8740c57897abd1c91cc6a51a0de7d7eedd4a2893bcab73cddf3edbf75f1",
-  "apkSizeBytes": 102462211
+  "publishedAt": "2026-09-14T18:08:58Z",
+  "apkUrl": "https://github.com/nico-ht/Sprachraum-Releases/releases/download/v0.7.12/sprachraum-0.7.12.apk",
+  "apkSha256": "458861f8e0128830267a0ece9720d3ca8a4ed95afccb0c86b8ca38c2eb609c6e",
+  "apkSizeBytes": 102478595
 }
