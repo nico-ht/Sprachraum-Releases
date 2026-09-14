@@ -1,15 +1,16 @@
 {
   "schemaVersion": 1,
   "applicationId": "com.sprachraum",
-  "versionCode": 20,
-  "versionName": "0.7.9",
-  "title": "Privates Gesprächsarchiv",
+  "versionCode": 21,
+  "versionName": "0.7.10",
+  "title": "Bessere Gesprächshilfe",
   "notes": [
-    "Bestehende und zukünftige Gesprächstexte dauerhaft speichern und optional privat online sichern.",
-    "Keine Audioaufnahmen; ausstehende Texte werden beim nächsten Öffnen nachgeholt."
+    "Die KI spricht auch bei Rückfragen und Hilfen ausschließlich Italienisch.",
+    "Verständnisprobleme haben Vorrang: einfachere Erklärungen und passende Antwortbeispiele.",
+    "Lernbewertungen lenken laufende Gespräche nicht mehr zu alten Fragen zurück."
   ],
-  "publishedAt": "2026-09-14T08:40:28Z",
-  "apkUrl": "https://github.com/nico-ht/Sprachraum-Releases/releases/download/v0.7.9/sprachraum-0.7.9.apk",
-  "apkSha256": "734fef43278ffdc6404fb1f23601855afcd2fba82bf4361a9d6ba3ec3860353f",
+  "publishedAt": "2026-09-14T09:15:22Z",
+  "apkUrl": "https://github.com/nico-ht/Sprachraum-Releases/releases/download/v0.7.10/sprachraum-0.7.10.apk",
+  "apkSha256": "e4d3957959c165112fb2f0d3464e5c9f2434efe259d35b476a3a3868dcd4ade6",
   "apkSizeBytes": 102462211
 }
