@@ -1,17 +1,15 @@
 {
   "schemaVersion": 1,
   "applicationId": "com.sprachraum",
-  "versionCode": 19,
-  "versionName": "0.7.8",
-  "title": "Natürlichere Gespräche und automatische Übersetzung",
+  "versionCode": 20,
+  "versionName": "0.7.9",
+  "title": "Privates Gesprächsarchiv",
   "notes": [
-    "Gespräche greifen deine Antworten auf und führen mit passenden neuen Anschlussfragen weiter.",
-    "Italienische Sprachregeln und Grammatik richten sich genauer nach Situation und Lernstand.",
-    "Wortinfos ergänzen passende Grundformen, Artikel und feste Wendungen.",
-    "Deutsche Untertitel können auf Wunsch automatisch mitlaufen."
+    "Bestehende und zukünftige Gesprächstexte dauerhaft speichern und optional privat online sichern.",
+    "Keine Audioaufnahmen; ausstehende Texte werden beim nächsten Öffnen nachgeholt."
   ],
-  "publishedAt": "2026-09-13T19:48:03Z",
-  "apkUrl": "https://github.com/nico-ht/Sprachraum-Releases/releases/download/v0.7.8/sprachraum-0.7.8.apk",
-  "apkSha256": "0674ef659a15f5e2c46350c0fd4f28d531967bce73b4e12fddb88809bd30401d",
-  "apkSizeBytes": 102429443
+  "publishedAt": "2026-09-14T08:40:28Z",
+  "apkUrl": "https://github.com/nico-ht/Sprachraum-Releases/releases/download/v0.7.9/sprachraum-0.7.9.apk",
+  "apkSha256": "734fef43278ffdc6404fb1f23601855afcd2fba82bf4361a9d6ba3ec3860353f",
+  "apkSizeBytes": 102462211
 }
