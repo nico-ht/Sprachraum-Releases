@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
   "applicationId": "com.sprachraum",
-  "versionCode": 23,
-  "versionName": "0.7.12",
-  "title": "Lebendigere Gespräche",
+  "versionCode": 24,
+  "versionName": "0.7.13",
+  "title": "Stimmigere Gespräche und Wortauswahl",
   "notes": [
-    "Vor dem Gespräch zeigt die KI eine kurze Szenario-Vorschau. Erst nach deiner Bestätigung startet das Mikrofon.",
-    "Szenarien beginnen mitten in der Situation mit passenden Rollen und abwechslungsreichen Begegnungen.",
-    "Mehr Raum für eigene Fragen, Reaktionen und Wünsche; kurze Worthilfe lässt dich deinen Satz beenden.",
-    "Alle gesprochenen Antworten und Hilfen bleiben auf Italienisch."
+    "Die KI bleibt in der bestätigten Szene und prüft bei Verwirrung auch ihre eigene Frage.",
+    "Das bestätigte Szenario wird mit neuen Gesprächen gespeichert und im privaten Textarchiv gesichert.",
+    "Die Wortauswahl bevorzugt einzelne neue Wörter und zeigt den ursprünglichen Gesprächssatz als Kontext.",
+    "Selbst verwendete Wörter bleiben als Lernvorschläge möglich; nützliche Wendungen bleiben erhalten."
   ],
-  "publishedAt": "2026-09-14T18:08:58Z",
-  "apkUrl": "https://github.com/nico-ht/Sprachraum-Releases/releases/download/v0.7.12/sprachraum-0.7.12.apk",
-  "apkSha256": "458861f8e0128830267a0ece9720d3ca8a4ed95afccb0c86b8ca38c2eb609c6e",
-  "apkSizeBytes": 102478595
+  "publishedAt": "2026-09-14T19:25:54Z",
+  "apkUrl": "https://github.com/nico-ht/Sprachraum-Releases/releases/download/v0.7.13/sprachraum-0.7.13.apk",
+  "apkSha256": "4ac0854401fae51a609cdcc7c4d337862b5e75dfcf51c32f82c53a63355bb143",
+  "apkSizeBytes": 102482691
 }
